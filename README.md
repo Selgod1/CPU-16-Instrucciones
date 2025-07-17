@@ -94,15 +94,10 @@ Analiza cómo cada instrucción se ejecuta a nivel de hardware.
 Con este proyecto podrás:
 
 ✅ Comprender cómo funcionan las instrucciones dentro de un CPU.
+
 ✅ Visualizar en tiempo real el flujo de datos y las señales de control.
+
 ✅ Reforzar los conceptos de registros, ALU y memoria en arquitectura de computadoras.
+
 ✅ Practicar el diseño de circuitos digitales en Logisim.
 
-# Estructura del repositorio
-bash
-Copy
-Edit
-/cpu-logisim/
-│
-├── cpu16.circ         # Proyecto de Logisim
-└── README.md          # Este archivo
